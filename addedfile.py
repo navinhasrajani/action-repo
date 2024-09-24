@@ -1,1 +1,1 @@
-This is my new file
+print('hello world')
